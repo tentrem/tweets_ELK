@@ -1,2 +1,2 @@
 # tweets_ELK
-testing docker compose ELK streams tweets
+testing docker compose ELK stream tweets from twitter
